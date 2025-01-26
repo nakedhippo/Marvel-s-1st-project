@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: linear-gradient(to bottom, black, white);
+  font-family:sans-serif;
+}
+.container {
+  width: 100%;
+  max-width: 100%;
+  padding: 100%;
+  background: linear-gradient(to bottom, black, white);
+  text-align: center;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
